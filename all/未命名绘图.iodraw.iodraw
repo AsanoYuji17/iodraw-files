@@ -50,6 +50,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CuutnAHHg_6QuVgMCgBK-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CuutnAHHg_6QuVgMCgBK-13" target="CuutnAHHg_6QuVgMCgBK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CuutnAHHg_6QuVgMCgBK-13" value="问题二：随机场景 + Mean-CVaR 风险优化" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="606" y="52" width="325" height="1129" as="geometry" />
         </mxCell>
