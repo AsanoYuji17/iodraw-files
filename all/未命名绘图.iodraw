@@ -96,6 +96,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q31wl8vuDGYcLX8csPMc-20" value="冻结并执行首6小时决策&#xa;&#xa;    计划购电与储能充放电进入正式执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2085" width="252" height="84" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
