@@ -17,7 +17,7 @@
           <mxGeometry x="70" y="1730" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-5" value="后18小时前瞻域&#xa;    108个10分钟区间&#xa;    仅用于估计后续费用和储能价值&#xa;    不直接结算、不写入正式执行结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1730" width="190" height="90" as="geometry" />
+          <mxGeometry x="340" y="1730" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-6" value="24小时词典序滚动优化&#xa;    第一层：最小化不重复计费的预期费用&#xa;    第二层：在费用最优容差内最小化储能吞吐量" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="1900" width="252" height="105" as="geometry" />
@@ -50,7 +50,7 @@
         <mxCell id="Q31wl8vuDGYcLX8csPMc-13" value="划分" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Q31wl8vuDGYcLX8csPMc-3" target="Q31wl8vuDGYcLX8csPMc-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="446" y="1671" />
+              <mxPoint x="430" y="1670" />
             </Array>
           </mxGeometry>
         </mxCell>
