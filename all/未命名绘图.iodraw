@@ -26,7 +26,7 @@
           <mxGeometry x="170" y="2085" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-9" value="更新储能状态并传递至下一时点&#xa;&#xa;    0:00 → 6:00 → 12:00 → 18:00 → 次日0:00&#xa;&#xa;    仅2025-02-01 0:00初始化为6000 kWh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2371" width="252" height="137" as="geometry" />
+          <mxGeometry x="260" y="2240" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Q31wl8vuDGYcLX8csPMc-1" target="Q31wl8vuDGYcLX8csPMc-2">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +73,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q31wl8vuDGYcLX8csPMc-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Q31wl8vuDGYcLX8csPMc-7">
+        <mxCell id="Q31wl8vuDGYcLX8csPMc-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q31wl8vuDGYcLX8csPMc-7" target="Q31wl8vuDGYcLX8csPMc-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="295" y="2219" as="targetPoint" />
