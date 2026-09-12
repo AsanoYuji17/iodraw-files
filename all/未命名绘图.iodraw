@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Sdfju5_4LZgN0HOF0OHd">
-    <mxGraphModel dx="1213" dy="-548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="-548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="1716" width="250" height="119" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-5" value="后18小时前瞻域&#xa;    108个10分钟区间&#xa;    仅用于估计后续费用和储能价值&#xa;    不直接结算、不写入正式执行结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1720" width="253" height="124" as="geometry" />
+          <mxGeometry x="320" y="1720" width="253" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-6" value="24小时词典序滚动优化&#xa;&#xa;    第一层：最小化不重复计费的预期费用&#xa;&#xa;    第二层：在费用最优容差内最小化储能吞吐量" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1916" width="252" height="119" as="geometry" />
@@ -86,6 +86,9 @@
               <mxPoint x="608" y="1374" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q31wl8vuDGYcLX8csPMc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q31wl8vuDGYcLX8csPMc-4" target="Q31wl8vuDGYcLX8csPMc-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
