@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q31wl8vuDGYcLX8csPMc-1" value="当前信息集&#xa;&#xa;    历史实际负荷与光伏&#xa;&#xa;    最新光伏预报&#xa;&#xa;    固定分时电价&#xa;&#xa;    当前储电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Q31wl8vuDGYcLX8csPMc-1" value="当前信息集&#xa;    历史实际负荷与光伏&#xa;    最新光伏预报&#xa;    固定分时电价&#xa;    当前储电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="274" y="1210" width="204" height="139" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-2" value="因果预测更新&#xa;&#xa;    光伏：基于发布时间与提前量修正预测误差&#xa;&#xa;    负荷：同日型中位曲线 + 日内尺度修正" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
