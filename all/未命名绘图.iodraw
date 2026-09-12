@@ -14,7 +14,7 @@
           <mxGeometry x="200" y="1570" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-4" value="首6小时执行域&#xa;    36个10分钟区间&#xa;    0:00形成初始执行计划&#xa;    6:00、12:00、18:00形成新的执行调整量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1740" width="200" height="95" as="geometry" />
+          <mxGeometry x="50" y="1730" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-5" value="后18小时前瞻域&#xa;    108个10分钟区间&#xa;    仅用于估计后续费用和储能价值&#xa;    不直接结算、不写入正式执行结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="1730" width="190" height="90" as="geometry" />
