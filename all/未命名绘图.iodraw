@@ -19,10 +19,10 @@
         <mxCell id="Q31wl8vuDGYcLX8csPMc-5" value="后18小时前瞻域&#xa;&#xa;    108个10分钟区间&#xa;&#xa;    仅用于估计后续费用和储能价值&#xa;&#xa;    不直接结算、不写入正式执行结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="1707" width="253" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="Q31wl8vuDGYcLX8csPMc-6" value="24小时词典序滚动优化&#xa;&#xa;    第一层：最小化不重复计费的预期费用&#xa;&#xa;    第二层：在费用最优容差内最小化储能吞吐量" style="whiteSpace=wrap;strokeWidth=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="Q31wl8vuDGYcLX8csPMc-6" value="24小时词典序滚动优化&#xa;&#xa;    第一层：最小化不重复计费的预期费用&#xa;&#xa;    第二层：在费用最优容差内最小化储能吞吐量" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1916" width="252" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="Q31wl8vuDGYcLX8csPMc-7" value="冻结并执行首6小时决策&#xa;&#xa;    计划购电与储能充放电进入正式执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Q31wl8vuDGYcLX8csPMc-7" value="冻结并执行首6小时决策&#xa;&#xa;    计划购电与储能充放电进入正式执行&#xa;读取该6小时真实负荷与真实光伏&#xa;&#xa;计算实际紧急购电量&#xa;&#xa;计算实际购电费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="2085" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-8" value="读取该6小时真实负荷与真实光伏&#xa;&#xa;    计算实际紧急购电量&#xa;&#xa;    计算实际购电费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
