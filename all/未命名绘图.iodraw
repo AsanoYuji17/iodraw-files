@@ -20,12 +20,12 @@
           <mxGeometry x="320" y="1720" width="253" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-6" value="24小时词典序滚动优化&#xa;    第一层：最小化不重复计费的预期费用&#xa;    第二层：在费用最优容差内最小化储能吞吐量" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1916" width="252" height="119" as="geometry" />
+          <mxGeometry x="170" y="1930" width="252" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-7" value="冻结并执行首6小时决策&#xa;读取该6小时真实负荷与真实光伏&#xa;计算实际紧急购电量&#xa;计算实际购电费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="2085" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="Q31wl8vuDGYcLX8csPMc-9" value="更新储能状态并传递至下一时点&#xa;&#xa;    0:00 → 6:00 → 12:00 → 18:00 → 次日0:00&#xa;&#xa;    仅2025-02-01 0:00初始化为6000 kWh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Q31wl8vuDGYcLX8csPMc-9" value="更新储能状态并传递至下一时点&#xa;    0:00 → 6:00 → 12:00 → 18:00 → 次日0:00&#xa;    仅2025-02-01 0:00初始化为6000 kWh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="2240" width="252" height="137" as="geometry" />
         </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Q31wl8vuDGYcLX8csPMc-1" target="Q31wl8vuDGYcLX8csPMc-2">
