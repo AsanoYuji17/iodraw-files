@@ -1,12 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Sdfju5_4LZgN0HOF0OHd">
-    <mxGraphModel dx="4043" dy="2070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="-134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CuutnAHHg_6QuVgMCgBK-23" value="问题一：确定性种植规划（MILP）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="536" height="1193" as="geometry" />
-        </mxCell>
         <mxCell id="Q31wl8vuDGYcLX8csPMc-1" value="当前信息集&#xa;&#xa;    历史实际负荷与光伏&#xa;&#xa;    最新光伏预报&#xa;&#xa;    固定分时电价&#xa;&#xa;    当前储电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="274" y="1230" width="204" height="119" as="geometry" />
         </mxCell>
